@@ -5,12 +5,9 @@ import time
 
 async def main():
     obj_dm = DataManager()
-    obj_dm.fetching_proxies()
-    obj_dm.fetching_colleges()
-    await obj_dm.link_redirect_looping()
+    await obj_dm.fetching_keys()
 
 if __name__ == "__main__":
-
     lockfile = 'potallocker.lock'
     
     with open(lockfile, 'w') as f:

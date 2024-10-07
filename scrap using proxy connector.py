@@ -1,3 +1,5 @@
+#not being used
+
 import json
 import aiohttp
 import aiohttp_socks
@@ -12,9 +14,10 @@ import requests
 import numpy as np
 
 class ScraperCall:
-    def __init__(self, debug_logger, info_logger, payload, headers) -> None:
+    def __init__(self, debug_logger, info_logger,critical_logger, payload, headers) -> None:
         self.debug_logger = debug_logger
         self.info_logger = info_logger
+        self.critical_logger = critical_logger
 
         self.access_key = os.getenv('ACCESS_KEY')
         self.secret_key = os.getenv('SECRET_KEY')

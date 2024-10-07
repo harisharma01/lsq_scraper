@@ -1,3 +1,5 @@
+#not being used
+
 import requests
 import json
 import os, sys
@@ -8,7 +10,6 @@ class PROXY_LIST:
         self.debug_logger = debug_logger
 
     def get_proxies(self):
-        
         try:
             proxy_url = 'https://proxylist.geonode.com/api/proxy-list?limit=500&page=1&sort_by=lastChecked&sort_type=desc'
             response  = requests.get(proxy_url)
