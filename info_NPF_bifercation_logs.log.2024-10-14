@@ -1,0 +1,7 @@
+2024-10-14 13:51:25,074:INFO:LSQdatabase:connect_sql:45:TODAYSSSS DATEEE = >2024-10-14
+2024-10-14 13:51:27,774:INFO:loginlsq:login:23:Login function started
+2024-10-14 13:51:27,831:INFO:utils:text_box:69:Successfully entered text in element with XPath: //*[@id="EmailID"]
+2024-10-14 13:51:31,263:INFO:utils:text_box:69:Successfully entered text in element with XPath: //*[@id="Password"]
+2024-10-14 13:52:05,055:INFO:utils:text_box:69:Successfully entered text in element with XPath: //*[@class="pincode-input-container"]
+2024-10-14 13:52:05,096:INFO:loginlsq:login:90:Login successful
+2024-10-14 13:52:09,107:INFO:fetchingkeys:secretkeys:30:access_key = u$r8a17b2f5ce0ba65e327979eb344f4d8b, secret_key = ca6a1cf31ea57c04664a910f7bac860338dddbc1

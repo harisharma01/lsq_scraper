@@ -26,9 +26,7 @@ class LoginNPF:
             max_retries = 3
             for attempt in range(max_retries):
                 try:
-                    self.debug_logger.debug(f"Attempting: {error_message}")
                     await action()
-                    self.debug_logger.debug(f"Succeeded: {error_message}")
                     return True
                 except Exception as e:
                     self.debug_logger.warning(f"{error_message} (Attempt {attempt + 1}/{max_retries}): {str(e)}")
@@ -38,55 +36,67 @@ class LoginNPF:
                 await asyncio.sleep(2)  # Short delay between retries
         
         self.debug_logger.debug('Next is input email')
+        # Input email
         if not await attempt_action(
             lambda: self.hf.text_box(self.xp.fill_email_id_xp, self.email),
-            "Input email"
+            "Failed to input email"
         ):
             return False
-    
-        self.debug_logger.debug('Next is click login button after email')
+
+        # Click login button
         if not await attempt_action(
             lambda: self.hf.click(self.xp.click_login_button_xp),
-            "Click login button after email"
+            "Failed to click login button after email"
         ):
             return False
-    
+
         self.debug_logger.debug('Next is input password')
+        # Input password
         if not await attempt_action(
             lambda: self.hf.text_box(self.xp.fill_password_xp, self.password),
-            "Input password"
+            "Failed to input password"
         ):
             return False
-    
-        self.debug_logger.debug('Next is click login button after password')
+
+        # Click login button again
         if not await attempt_action(
             lambda: self.hf.click(self.xp.click_login_button_xp),
-            "Click login button after password"
+            "Failed to click login button after password"
         ):
             return False
-    
-        self.debug_logger.debug('Waiting for OTP page')
+
         await asyncio.sleep(30)
-    
-        self.debug_logger.debug('Fetching OTP')
+
+        #fetching the otp from the central ops email
         mail = self.fetch_opt.connect_to_gmail_imap()
+
         fetched_otp = self.fetch_opt.get_latest_otp(mail)
-        self.debug_logger.debug(f'Fetched OTP = {fetched_otp}')
-    
-        self.debug_logger.debug('Next is input OTP')
+        print(f'Fetched OTP = {fetched_otp}')
+
+        # Input OTP
+        # if not await attempt_action(
+        #     lambda: self.hf.text_box(self.xp.full_otp_container, fetched_otp),
+        #     "Failed to input OTP"
+        # ):
+        #     return False
+
+        self.debug_logger.debug('Next is input otp')
+
+        # Input OTP
         if not await attempt_action(
             lambda: self.hf.text_box(self.xp.otp_input_xpath, fetched_otp),
-            "Input OTP"
+            "Failed to input OTP"
         ):
             return False
-    
-        self.debug_logger.debug('Next is clicking final login button')
+
+        self.debug_logger.debug('Next is clicking login')
+
+        # Final login button click
         if not await attempt_action(
             lambda: self.hf.click(self.xp.click_login_button_xp),
-            "Click final login button"
+            "Failed to click final login button"
         ):
             return False
-    
+
         self.info_logger.info('Login successful')
-        
         return self.page

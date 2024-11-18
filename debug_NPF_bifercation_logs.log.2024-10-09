@@ -1,0 +1,3 @@
+2024-10-09 16:36:07,306:ERROR:utils:text_box:73:Network error on attempt 1: Protocol error (Runtime.callFunctionOn): Inspected target navigated or closed
+2024-10-09 16:36:07,306:WARNING:utils:text_box:75:Page may have navigated. Attempting to refocus.
+2024-10-09 16:36:07,306:ERROR:utils:text_box:79:Failed to bring page to front: Protocol error (Page.bringToFront): Not attached to an active page

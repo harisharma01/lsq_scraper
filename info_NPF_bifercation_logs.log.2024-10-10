@@ -1,0 +1,18 @@
+2024-10-10 12:26:35,281:INFO:LSQdatabase:connect_sql:45:TODAYSSSS DATEEE = >2024-10-10
+2024-10-10 12:26:37,831:INFO:loginlsq:login:23:Login function started
+2024-10-10 12:26:37,882:INFO:utils:text_box:67:Successfully entered text in element with XPath: //*[@id="EmailID"]
+2024-10-10 12:26:40,280:INFO:utils:text_box:67:Successfully entered text in element with XPath: //*[@id="Password"]
+2024-10-10 12:27:14,517:INFO:utils:text_box:67:Successfully entered text in element with XPath: //*[@class="pincode-input-container"]
+2024-10-10 12:27:14,557:INFO:loginlsq:login:101:Login successful
+2024-10-10 13:49:12,614:INFO:LSQdatabase:connect_sql:45:TODAYSSSS DATEEE = >2024-10-10
+2024-10-10 13:49:15,315:INFO:loginlsq:login:23:Login function started
+2024-10-10 13:49:15,364:INFO:utils:text_box:71:Successfully entered text in element with XPath: //*[@id="EmailID"]
+2024-10-10 13:49:18,921:INFO:utils:text_box:71:Successfully entered text in element with XPath: //*[@id="Password"]
+2024-10-10 13:49:52,868:INFO:utils:text_box:71:Successfully entered text in element with XPath: //*[@class="pincode-input-container"]
+2024-10-10 13:49:52,909:INFO:loginlsq:login:90:Login successful
+2024-10-10 14:15:54,049:INFO:LSQdatabase:connect_sql:45:TODAYSSSS DATEEE = >2024-10-10
+2024-10-10 14:15:56,478:INFO:loginlsq:login:23:Login function started
+2024-10-10 14:15:56,533:INFO:utils:text_box:70:Successfully entered text in element with XPath: //*[@id="EmailID"]
+2024-10-10 14:16:00,281:INFO:utils:text_box:70:Successfully entered text in element with XPath: //*[@id="Password"]
+2024-10-10 14:16:34,112:INFO:utils:text_box:70:Successfully entered text in element with XPath: //*[@class="pincode-input-container"]
+2024-10-10 14:16:34,145:INFO:loginlsq:login:90:Login successful

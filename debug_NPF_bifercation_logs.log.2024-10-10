@@ -1,0 +1,54 @@
+2024-10-10 12:26:37,831:DEBUG:loginlsq:login:38:Next is input email
+2024-10-10 12:26:37,935:DEBUG:loginlsq:login:53:Next is input password
+2024-10-10 12:26:38,259:ERROR:utils:text_box:70:Network error on attempt 1: Protocol error (Runtime.callFunctionOn): Inspected target navigated or closed
+2024-10-10 12:26:38,259:WARNING:utils:text_box:72:Page may have navigated. Attempting to refocus.
+2024-10-10 12:26:38,260:ERROR:utils:text_box:76:Failed to bring page to front: Protocol error (Page.bringToFront): Not attached to an active page
+2024-10-10 12:27:14,494:DEBUG:loginlsq:login:83:Next is input otp
+2024-10-10 12:27:14,517:DEBUG:loginlsq:login:92:Next is clicking login2024-10-10 13:49:15,315:DEBUG:loginlsq:login:40:Next is input email
+2024-10-10 13:49:15,315:DEBUG:loginlsq:attempt_action:29:Attempting: Input email
+2024-10-10 13:49:15,364:DEBUG:loginlsq:attempt_action:31:Succeeded: Input email
+2024-10-10 13:49:15,364:DEBUG:loginlsq:login:47:Next is click login button after email
+2024-10-10 13:49:15,364:DEBUG:loginlsq:attempt_action:29:Attempting: Click login button after email
+2024-10-10 13:49:15,403:DEBUG:loginlsq:attempt_action:31:Succeeded: Click login button after email
+2024-10-10 13:49:15,403:DEBUG:loginlsq:login:54:Next is input password
+2024-10-10 13:49:15,403:DEBUG:loginlsq:attempt_action:29:Attempting: Input password
+2024-10-10 13:49:15,715:ERROR:utils:text_box:74:Network error on attempt 1: Protocol error (Runtime.callFunctionOn): Inspected target navigated or closed
+2024-10-10 13:49:15,715:WARNING:utils:text_box:76:Page may have navigated. Attempting to refocus.
+2024-10-10 13:49:16,902:INFO:utils:text_box:79:Page navigation complete. Retrying action.
+2024-10-10 13:49:18,921:DEBUG:loginlsq:attempt_action:31:Succeeded: Input password
+2024-10-10 13:49:18,921:DEBUG:loginlsq:login:61:Next is click login button after password
+2024-10-10 13:49:18,921:DEBUG:loginlsq:attempt_action:29:Attempting: Click login button after password
+2024-10-10 13:49:18,968:DEBUG:loginlsq:attempt_action:31:Succeeded: Click login button after password
+2024-10-10 13:49:18,968:DEBUG:loginlsq:login:68:Waiting for OTP page
+2024-10-10 13:49:48,971:DEBUG:loginlsq:login:71:Fetching OTP
+2024-10-10 13:49:52,849:DEBUG:loginlsq:login:74:Fetched OTP = 934589
+2024-10-10 13:49:52,849:DEBUG:loginlsq:login:76:Next is input OTP
+2024-10-10 13:49:52,849:DEBUG:loginlsq:attempt_action:29:Attempting: Input OTP
+2024-10-10 13:49:52,869:DEBUG:loginlsq:attempt_action:31:Succeeded: Input OTP
+2024-10-10 13:49:52,869:DEBUG:loginlsq:login:83:Next is clicking final login button
+2024-10-10 13:49:52,869:DEBUG:loginlsq:attempt_action:29:Attempting: Click final login button
+2024-10-10 13:49:52,909:DEBUG:loginlsq:attempt_action:31:Succeeded: Click final login button
+2024-10-10 14:15:56,478:DEBUG:loginlsq:login:40:Next is input email
+2024-10-10 14:15:56,478:DEBUG:loginlsq:attempt_action:29:Attempting: Input email
+2024-10-10 14:15:56,534:DEBUG:loginlsq:attempt_action:31:Succeeded: Input email
+2024-10-10 14:15:56,534:DEBUG:loginlsq:login:47:Next is click login button after email
+2024-10-10 14:15:56,534:DEBUG:loginlsq:attempt_action:29:Attempting: Click login button after email
+2024-10-10 14:15:56,569:DEBUG:loginlsq:attempt_action:31:Succeeded: Click login button after email
+2024-10-10 14:15:56,570:DEBUG:loginlsq:login:54:Next is input password
+2024-10-10 14:15:56,570:DEBUG:loginlsq:attempt_action:29:Attempting: Input password
+2024-10-10 14:15:56,940:ERROR:utils:text_box:73:Network error on attempt 1: Protocol error (Runtime.callFunctionOn): Inspected target navigated or closed
+2024-10-10 14:15:56,940:WARNING:utils:text_box:75:Page may have navigated. Attempting to refocus.
+2024-10-10 14:15:58,254:INFO:utils:text_box:78:Page navigation complete. Retrying action.
+2024-10-10 14:16:00,281:DEBUG:loginlsq:attempt_action:31:Succeeded: Input password
+2024-10-10 14:16:00,281:DEBUG:loginlsq:login:61:Next is click login button after password
+2024-10-10 14:16:00,281:DEBUG:loginlsq:attempt_action:29:Attempting: Click login button after password
+2024-10-10 14:16:00,317:DEBUG:loginlsq:attempt_action:31:Succeeded: Click login button after password
+2024-10-10 14:16:00,317:DEBUG:loginlsq:login:68:Waiting for OTP page
+2024-10-10 14:16:30,320:DEBUG:loginlsq:login:71:Fetching OTP
+2024-10-10 14:16:34,089:DEBUG:loginlsq:login:74:Fetched OTP = 662973
+2024-10-10 14:16:34,089:DEBUG:loginlsq:login:76:Next is input OTP
+2024-10-10 14:16:34,089:DEBUG:loginlsq:attempt_action:29:Attempting: Input OTP
+2024-10-10 14:16:34,112:DEBUG:loginlsq:attempt_action:31:Succeeded: Input OTP
+2024-10-10 14:16:34,112:DEBUG:loginlsq:login:83:Next is clicking final login button
+2024-10-10 14:16:34,112:DEBUG:loginlsq:attempt_action:29:Attempting: Click final login button
+2024-10-10 14:16:34,145:DEBUG:loginlsq:attempt_action:31:Succeeded: Click final login button

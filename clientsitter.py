@@ -97,6 +97,7 @@ class DataManager:
         lg = LoginNPF(self.page, self.debug_logger, self.info_logger, self.critical_logger)
         self.page = await lg.login()
         
+        await asyncio.sleep(4)
         # fetch_key = FetchParams(self.page, self.debug_logger, self.info_logger, self.critical_logger)
         # await fetch_key.event_listeners()
         # await fetch_key.authentication_params()
@@ -106,7 +107,7 @@ class DataManager:
 
     def fetching_colleges(self):
         try:
-            self.college_id_names = self.ss_call.scrap_colleges(self.cidnames_headers)
+            self.college_id_names = self.ss_call.scrap_colleges(self.cidnames_headers, self.access_key, self.secret_key)
         except Exception as e:
             exc_type, exc_obj, exc_tb = sys.exc_info()
             fname = os.path.split(exc_tb.tb_frame.f_code.co_filename)[1]
@@ -118,7 +119,7 @@ class DataManager:
         start_date = '2024-01-01 00:00:00' #yyyy-mm-dd hh:mm:ss
         end_date = '2024-12-31 23:59:59'
 
-        for cd_cust_id, college_name in self.college_id_names[:5]:
+        for cd_cust_id, college_name in self.college_id_names:
             # await asyncio.sleep(2)
             start_time_for_college = time.time()
             try:

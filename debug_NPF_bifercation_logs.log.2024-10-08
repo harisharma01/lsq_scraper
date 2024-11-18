@@ -1,0 +1,30 @@
+2024-10-08 14:33:43,763:CRITICAL:utils:text_box:41:An Exception Occured for: 
+Protocol error (Runtime.callFunctionOn): Inspected target navigated or closed 
+More Info: Type :<class 'pyppeteer.errors.NetworkError'> Function :utils.py Line Number: 32
+2024-10-08 15:46:37,907:CRITICAL:utils:text_box:55:An Exception Occured for: 
+'list' object has no attribute 'type' 
+ More Info: Type :<class 'AttributeError'> Function :utils.py Line Number: 48
+2024-10-08 15:46:37,910:CRITICAL:utils:text_box:55:An Exception Occured for: 
+'list' object has no attribute 'type' 
+ More Info: Type :<class 'AttributeError'> Function :utils.py Line Number: 48
+2024-10-08 15:46:37,912:CRITICAL:utils:text_box:55:An Exception Occured for: 
+'list' object has no attribute 'type' 
+ More Info: Type :<class 'AttributeError'> Function :utils.py Line Number: 48
+2024-10-08 15:47:07,948:CRITICAL:utils:text_box:55:An Exception Occured for: 
+Waiting for XPath "//*[@id="Password"]" failed: timeout 30000ms exceeds. 
+ More Info: Type :<class 'pyppeteer.errors.TimeoutError'> Function :utils.py Line Number: 46
+2024-10-08 15:47:37,963:CRITICAL:utils:text_box:55:An Exception Occured for: 
+Waiting for XPath "//*[@id="Password"]" failed: timeout 30000ms exceeds. 
+ More Info: Type :<class 'pyppeteer.errors.TimeoutError'> Function :utils.py Line Number: 46
+2024-10-08 15:48:07,991:CRITICAL:utils:text_box:55:An Exception Occured for: 
+Waiting for XPath "//*[@id="Password"]" failed: timeout 30000ms exceeds. 
+ More Info: Type :<class 'pyppeteer.errors.TimeoutError'> Function :utils.py Line Number: 46
+2024-10-08 15:49:11,584:CRITICAL:utils:text_box:55:An Exception Occured for: 
+Waiting for XPath "//*[@id="login-form-container"]/div[2]/div/div/div/div[2]/div[1]/div" failed: timeout 30000ms exceeds. 
+ More Info: Type :<class 'pyppeteer.errors.TimeoutError'> Function :utils.py Line Number: 46
+2024-10-08 15:49:41,603:CRITICAL:utils:text_box:55:An Exception Occured for: 
+Waiting for XPath "//*[@id="login-form-container"]/div[2]/div/div/div/div[2]/div[1]/div" failed: timeout 30000ms exceeds. 
+ More Info: Type :<class 'pyppeteer.errors.TimeoutError'> Function :utils.py Line Number: 46
+2024-10-08 15:50:11,634:CRITICAL:utils:text_box:55:An Exception Occured for: 
+Waiting for XPath "//*[@id="login-form-container"]/div[2]/div/div/div/div[2]/div[1]/div" failed: timeout 30000ms exceeds. 
+ More Info: Type :<class 'pyppeteer.errors.TimeoutError'> Function :utils.py Line Number: 46

@@ -1,0 +1,813 @@
+<pyppeteer.page.Page object at 0x7ff0b5904650>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>216289</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Iframe with the required src attribute not found.
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 277, in __step
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+<pyppeteer.page.Page object at 0x7fe8ad3b21d0>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>114870</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+ Access Key = u$r8a17b2f5ce0ba65e327979eb344f4d8b || Secret Key = ca6a1cf31ea57c04664a910f7bac860338dddbc1
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+8920.39730501175
+<pyppeteer.page.Page object at 0x7f2452445fd0>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>304491</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+ Access Key = u$r8a17b2f5ce0ba65e327979eb344f4d8b || Secret Key = ca6a1cf31ea57c04664a910f7bac860338dddbc1
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+10960.210321903229
+<pyppeteer.page.Page object at 0x7ff3e5db3290>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>227844</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+ Access Key = u$r8a17b2f5ce0ba65e327979eb344f4d8b || Secret Key = ca6a1cf31ea57c04664a910f7bac860338dddbc1
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+9545.514121770859
+<pyppeteer.page.Page object at 0x7ff334071bd0>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>346828</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+ Access Key = u$r8a17b2f5ce0ba65e327979eb344f4d8b || Secret Key = ca6a1cf31ea57c04664a910f7bac860338dddbc1
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+12384.695467472076
+<pyppeteer.page.Page object at 0x7f7b40cff810>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>471785</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Traceback (most recent call last):
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 99, in evaluateHandle
+    _obj = await self._client.send('Runtime.callFunctionOn', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 287, in __await__
+    yield self  # This tells Task to wait for completion.
+    ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 349, in __wakeup
+    future.result()
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+pyppeteer.errors.NetworkError: Protocol error (Runtime.callFunctionOn): Cannot find context with specified id
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 279, in __step
+    result = coro.throw(exc)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/fetchingkeys.py", line 14, in secretkeys
+    html = await self.page.content()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/page.py", line 762, in content
+    return await frame.content()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/frame_manager.py", line 384, in content
+    return await self.evaluate('''
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/frame_manager.py", line 308, in evaluate
+    return await context.evaluate(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 53, in evaluate
+    handle = await self.evaluateHandle(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 108, in evaluateHandle
+    _rewriteError(e)
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 237, in _rewriteError
+    raise type(error)(msg)
+pyppeteer.errors.NetworkError: Execution context was destroyed, most likely because of a navigation.
+<pyppeteer.page.Page object at 0x7fe4e6a1c410>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>875264</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Iframe with the required src attribute not found.
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 277, in __step
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+<pyppeteer.page.Page object at 0x7f2b50bd6090>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>992346</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Iframe with the required src attribute not found.
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 277, in __step
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+<pyppeteer.page.Page object at 0x7fcec0bb2650>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>785217</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+ Access Key = u$r8a17b2f5ce0ba65e327979eb344f4d8b || Secret Key = ca6a1cf31ea57c04664a910f7bac860338dddbc1
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+12290.729559898376
+<pyppeteer.page.Page object at 0x7f6b567c1290>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>407317</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Iframe with the required src attribute not found.
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 277, in __step
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+<pyppeteer.page.Page object at 0x7f51b9a2e510>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>117680</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Iframe with the required src attribute not found.
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 277, in __step
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+<pyppeteer.page.Page object at 0x7fd6868fdc10>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>656446</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+ Access Key = u$r8a17b2f5ce0ba65e327979eb344f4d8b || Secret Key = ca6a1cf31ea57c04664a910f7bac860338dddbc1
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+11046.207018852234
+<pyppeteer.page.Page object at 0x7fb29d8121d0>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>842160</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+ Access Key = u$r8a17b2f5ce0ba65e327979eb344f4d8b || Secret Key = ca6a1cf31ea57c04664a910f7bac860338dddbc1
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+10349.414484024048
+<pyppeteer.page.Page object at 0x7fae60b55e50>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>658612</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Traceback (most recent call last):
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 99, in evaluateHandle
+    _obj = await self._client.send('Runtime.callFunctionOn', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 287, in __await__
+    yield self  # This tells Task to wait for completion.
+    ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 349, in __wakeup
+    future.result()
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+pyppeteer.errors.NetworkError: Protocol error (Runtime.callFunctionOn): Cannot find context with specified id
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 279, in __step
+    result = coro.throw(exc)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/fetchingkeys.py", line 14, in secretkeys
+    html = await self.page.content()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/page.py", line 762, in content
+    return await frame.content()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/frame_manager.py", line 384, in content
+    return await self.evaluate('''
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/frame_manager.py", line 308, in evaluate
+    return await context.evaluate(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 53, in evaluate
+    handle = await self.evaluateHandle(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 108, in evaluateHandle
+    _rewriteError(e)
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 237, in _rewriteError
+    raise type(error)(msg)
+pyppeteer.errors.NetworkError: Execution context was destroyed, most likely because of a navigation.
+<pyppeteer.page.Page object at 0x7feab19b1e90>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>197256</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+ Access Key = u$r8a17b2f5ce0ba65e327979eb344f4d8b || Secret Key = ca6a1cf31ea57c04664a910f7bac860338dddbc1
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+9777.225240468979
+<pyppeteer.page.Page object at 0x7fe83d8dee90>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>625525</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Iframe with the required src attribute not found.
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 277, in __step
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+<pyppeteer.page.Page object at 0x7f18af33a1d0>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>277522</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Iframe with the required src attribute not found.
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 277, in __step
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+<pyppeteer.page.Page object at 0x7f25c877a250>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>746562</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+ Access Key = u$r8a17b2f5ce0ba65e327979eb344f4d8b || Secret Key = ca6a1cf31ea57c04664a910f7bac860338dddbc1
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+10816.06589961052
+<pyppeteer.page.Page object at 0x7f62c37f1bd0>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>755052</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Iframe with the required src attribute not found.
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 277, in __step
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+<pyppeteer.page.Page object at 0x7f0f44c82110>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>527147</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+ Access Key = u$r8a17b2f5ce0ba65e327979eb344f4d8b || Secret Key = ca6a1cf31ea57c04664a910f7bac860338dddbc1
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+11547.028079032898
+<pyppeteer.page.Page object at 0x7fe5cacf6ed0>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>946998</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Traceback (most recent call last):
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 99, in evaluateHandle
+    _obj = await self._client.send('Runtime.callFunctionOn', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 287, in __await__
+    yield self  # This tells Task to wait for completion.
+    ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 349, in __wakeup
+    future.result()
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+pyppeteer.errors.NetworkError: Protocol error (Runtime.callFunctionOn): Cannot find context with specified id
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 279, in __step
+    result = coro.throw(exc)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/fetchingkeys.py", line 14, in secretkeys
+    html = await self.page.content()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/page.py", line 762, in content
+    return await frame.content()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/frame_manager.py", line 384, in content
+    return await self.evaluate('''
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/frame_manager.py", line 308, in evaluate
+    return await context.evaluate(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 53, in evaluate
+    handle = await self.evaluateHandle(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 108, in evaluateHandle
+    _rewriteError(e)
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 237, in _rewriteError
+    raise type(error)(msg)
+pyppeteer.errors.NetworkError: Execution context was destroyed, most likely because of a navigation.
+<pyppeteer.page.Page object at 0x7f280baddf10>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>179453</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+ Access Key = u$r8a17b2f5ce0ba65e327979eb344f4d8b || Secret Key = ca6a1cf31ea57c04664a910f7bac860338dddbc1
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+11540.781363725662
+<pyppeteer.page.Page object at 0x7f002ab88d50>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>737306</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+ Access Key = u$r8a17b2f5ce0ba65e327979eb344f4d8b || Secret Key = ca6a1cf31ea57c04664a910f7bac860338dddbc1
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+10853.033798456192
+<pyppeteer.page.Page object at 0x7f4e5e05dc10>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>665930</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Traceback (most recent call last):
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 99, in evaluateHandle
+    _obj = await self._client.send('Runtime.callFunctionOn', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 287, in __await__
+    yield self  # This tells Task to wait for completion.
+    ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 349, in __wakeup
+    future.result()
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+pyppeteer.errors.NetworkError: Protocol error (Runtime.callFunctionOn): Cannot find context with specified id
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 279, in __step
+    result = coro.throw(exc)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/fetchingkeys.py", line 14, in secretkeys
+    html = await self.page.content()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/page.py", line 762, in content
+    return await frame.content()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/frame_manager.py", line 384, in content
+    return await self.evaluate('''
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/frame_manager.py", line 308, in evaluate
+    return await context.evaluate(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 53, in evaluate
+    handle = await self.evaluateHandle(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 108, in evaluateHandle
+    _rewriteError(e)
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 237, in _rewriteError
+    raise type(error)(msg)
+pyppeteer.errors.NetworkError: Execution context was destroyed, most likely because of a navigation.
+<pyppeteer.page.Page object at 0x7fe3299cdc10>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>600203</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+ Access Key = u$r8a17b2f5ce0ba65e327979eb344f4d8b || Secret Key = ca6a1cf31ea57c04664a910f7bac860338dddbc1
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+10788.280900478363
+<pyppeteer.page.Page object at 0x7f9b2cf125d0>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>655540</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Iframe with the required src attribute not found.
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 277, in __step
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+<pyppeteer.page.Page object at 0x7fab63c35910>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>734096</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Iframe with the required src attribute not found.
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 277, in __step
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+<pyppeteer.page.Page object at 0x7f1b5be918d0>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>584025</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Iframe with the required src attribute not found.
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 277, in __step
+    result = coro.send(None)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+TypeError: cannot unpack non-iterable NoneType object
+<pyppeteer.page.Page object at 0x7f9f8cde0790>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>604527</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Traceback (most recent call last):
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 99, in evaluateHandle
+    _obj = await self._client.send('Runtime.callFunctionOn', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 287, in __await__
+    yield self  # This tells Task to wait for completion.
+    ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 349, in __wakeup
+    future.result()
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+pyppeteer.errors.NetworkError: Protocol error (Runtime.callFunctionOn): Cannot find context with specified id
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 279, in __step
+    result = coro.throw(exc)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/fetchingkeys.py", line 14, in secretkeys
+    html = await self.page.content()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/page.py", line 762, in content
+    return await frame.content()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/frame_manager.py", line 384, in content
+    return await self.evaluate('''
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/frame_manager.py", line 308, in evaluate
+    return await context.evaluate(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 53, in evaluate
+    handle = await self.evaluateHandle(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 108, in evaluateHandle
+    _rewriteError(e)
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 237, in _rewriteError
+    raise type(error)(msg)
+pyppeteer.errors.NetworkError: Execution context was destroyed, most likely because of a navigation.
+<pyppeteer.page.Page object at 0x7f11a5359d50>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>189658</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Traceback (most recent call last):
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 99, in evaluateHandle
+    _obj = await self._client.send('Runtime.callFunctionOn', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 287, in __await__
+    yield self  # This tells Task to wait for completion.
+    ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 349, in __wakeup
+    future.result()
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+pyppeteer.errors.NetworkError: Protocol error (Runtime.callFunctionOn): Cannot find context with specified id
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 279, in __step
+    result = coro.throw(exc)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/fetchingkeys.py", line 14, in secretkeys
+    html = await self.page.content()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/page.py", line 762, in content
+    return await frame.content()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/frame_manager.py", line 384, in content
+    return await self.evaluate('''
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/frame_manager.py", line 308, in evaluate
+    return await context.evaluate(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 53, in evaluate
+    handle = await self.evaluateHandle(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 108, in evaluateHandle
+    _rewriteError(e)
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 237, in _rewriteError
+    raise type(error)(msg)
+pyppeteer.errors.NetworkError: Execution context was destroyed, most likely because of a navigation.
+<pyppeteer.page.Page object at 0x7f7897146510>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>251394</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+Traceback (most recent call last):
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 99, in evaluateHandle
+    _obj = await self._client.send('Runtime.callFunctionOn', {
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 287, in __await__
+    yield self  # This tells Task to wait for completion.
+    ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 349, in __wakeup
+    future.result()
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+pyppeteer.errors.NetworkError: Protocol error (Runtime.callFunctionOn): Cannot find context with specified id
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/home/lsq_scraper/config.py", line 24, in <module>
+    asyncio.run(main())
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 30, in run
+    return loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/nest_asyncio.py", line 98, in run_until_complete
+    return f.result()
+           ^^^^^^^^^^
+  File "/usr/lib/python3.11/asyncio/futures.py", line 203, in result
+    raise self._exception.with_traceback(self._exception_tb)
+  File "/usr/lib/python3.11/asyncio/tasks.py", line 279, in __step
+    result = coro.throw(exc)
+             ^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/config.py", line 8, in main
+    await obj_dm.fetching_keys()
+  File "/home/lsq_scraper/clientsitter.py", line 106, in fetching_keys
+    self.access_key, self.secret_key = await fetch_key.secretkeys()
+                                       ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/fetchingkeys.py", line 14, in secretkeys
+    html = await self.page.content()
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/page.py", line 762, in content
+    return await frame.content()
+           ^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/frame_manager.py", line 384, in content
+    return await self.evaluate('''
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/frame_manager.py", line 308, in evaluate
+    return await context.evaluate(
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 53, in evaluate
+    handle = await self.evaluateHandle(
+             ^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 108, in evaluateHandle
+    _rewriteError(e)
+  File "/home/lsq_scraper/venv_lsq_scraper/lib/python3.11/site-packages/pyppeteer/execution_context.py", line 237, in _rewriteError
+    raise type(error)(msg)
+pyppeteer.errors.NetworkError: Execution context was destroyed, most likely because of a navigation.
+<pyppeteer.page.Page object at 0x7fc7236463d0>
+Hey there,<br/><br/>Your OTP for LeadSquared application is <b>813892</b>. You may enter it in application login form.<br/><br/>Cheers<br/>LeadSquared Team
+ Access Key = u$r8a17b2f5ce0ba65e327979eb344f4d8b || Secret Key = ca6a1cf31ea57c04664a910f7bac860338dddbc1
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> LSQdatabase.py 158
+<class 'sqlalchemy.exc.DataError'> clientsitter.py 144
+11212.393394231796

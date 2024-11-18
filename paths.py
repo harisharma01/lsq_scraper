@@ -9,6 +9,7 @@ class ElementsPaths:
         self.next_button = '//*[@id="login-form-container"]/div[2]/div/div/div/div[3]/button' #same for verify button
 
         self.full_otp_container = '//*[@id="login-form-container"]/div[2]/div/div/div/div[2]/div[1]/div'
+        self.otp_input_xpath = '//*[@class="pincode-input-container"]'
 
         self.single_input_opt_1 = '//*[@id="login-form-container"]/div[2]/div/div/div/div[2]/div[1]/div/input[1]'
         self.single_input_opt_2 = '//*[@id="login-form-container"]/div[2]/div/div/div/div[2]/div[1]/div/input[2]'
@@ -18,8 +19,3 @@ class ElementsPaths:
         self.single_input_opt_6 = '//*[@id="login-form-container"]/div[2]/div/div/div/div[2]/div[1]/div/input[6]'
 
         self.trust_device_checkbox = '//*[@id="divTrustCurrentBrowser"]/label/span'
-
-
-
-                                    
-        

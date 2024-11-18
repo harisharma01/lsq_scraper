@@ -1,4 +1,227 @@
-2024-10-07 13:06:33,106:INFO:LSQdatabase:connect_sql:45:TODAYSSSS DATEEE = >2024-10-07
-2024-10-07 13:06:35,740:INFO:loginlsq:login:23:How many time is login function running
-2024-10-07 13:13:42,990:INFO:LSQdatabase:connect_sql:45:TODAYSSSS DATEEE = >2024-10-07
-2024-10-07 13:13:45,528:INFO:loginlsq:login:23:How many time is login function running
+2024-10-16 11:30:36,433:INFO:LSQdatabase:connect_sql:45:TODAYSSSS DATEEE = >2024-10-16
+2024-10-16 11:30:39,134:INFO:loginlsq:login:23:Login function started
+2024-10-16 11:30:39,191:INFO:utils:text_box:69:Successfully entered text in element with XPath: //*[@id="EmailID"]
+2024-10-16 11:30:42,770:INFO:utils:text_box:69:Successfully entered text in element with XPath: //*[@id="Password"]
+2024-10-16 11:31:16,980:INFO:utils:text_box:69:Successfully entered text in element with XPath: //*[@class="pincode-input-container"]
+2024-10-16 11:31:17,021:INFO:loginlsq:login:90:Login successful
+2024-10-16 11:31:21,045:INFO:fetchingkeys:secretkeys:30:access_key = u$r8a17b2f5ce0ba65e327979eb344f4d8b, secret_key = ca6a1cf31ea57c04664a910f7bac860338dddbc1
+2024-10-16 11:33:45,473:INFO:clientsitter:link_redirect_looping:156:
++--------------------------------------+--------------------------------------------------------+-------------+---------------+-----------------+------------+-------------------+
+|              College Id              |                      College Name                      | Total Leads | LeadsDf_Shape | SummaryDf_Shape | Time Taken | Time Taken fillDB |
++--------------------------------------+--------------------------------------------------------+-------------+---------------+-----------------+------------+-------------------+
+| cb5ddb90-463b-11ec-9e36-0a2bd9889d72 |            56977-AADDOO Software Pvt. Ltd.             |    16068    |  (16068, 19)  |     (1, 12)     |   15.26    |       0.634       |
+| 5f42932d-9287-11ec-9010-0a22fe197ecb |     58602-Adarsh group of institution , Bangalore      |     None    |      None     |        0        |   21.16    |       0.006       |
+| 628baabe-d211-11ed-8755-02b84f9e23c5 |           68019-ADCC ACADEMY PRIVATE LIMITED           |      0      |     (0, 0)    |     (1, 12)     |    1.65    |       0.003       |
+| 85a4ae97-a9fd-11ed-8755-02b84f9e23c5 |   66654-Advance Society for Development of Education   |    20286    |  (20286, 18)  |     (1, 12)     |   76.91    |       0.773       |
+| a794bee0-3d98-11ee-9cef-02b84f9e23c5 | 70560-Advance Society for Development of Education - 2 |    14107    |  (14106, 20)  |     (1, 12)     |   29.32    |       0.587       |
++--------------------------------------+--------------------------------------------------------+-------------+---------------+-----------------+------------+-------------------+
+2024-10-16 11:49:12,693:INFO:LSQdatabase:connect_sql:45:TODAYSSSS DATEEE = >2024-10-16
+2024-10-16 11:49:15,147:INFO:loginlsq:login:23:Login function started
+2024-10-16 11:49:52,994:INFO:loginlsq:login:90:Login successful
+2024-10-16 14:28:49,329:INFO:clientsitter:link_redirect_looping:156:
++--------------------------------------+---------------------------------------------------------------------------------+-------------+---------------+-----------------+------------+-------------------+
+|              College Id              |                                   College Name                                  | Total Leads | LeadsDf_Shape | SummaryDf_Shape | Time Taken | Time Taken fillDB |
++--------------------------------------+---------------------------------------------------------------------------------+-------------+---------------+-----------------+------------+-------------------+
+| cb5ddb90-463b-11ec-9e36-0a2bd9889d72 |                         56977-AADDOO Software Pvt. Ltd.                         |    16113    |  (16113, 19)  |     (1, 12)     |   13.35    |        0.64       |
+| 5f42932d-9287-11ec-9010-0a22fe197ecb |                  58602-Adarsh group of institution , Bangalore                  |     None    |      None     |        0        |   21.26    |       0.006       |
+| 628baabe-d211-11ed-8755-02b84f9e23c5 |                        68019-ADCC ACADEMY PRIVATE LIMITED                       |      0      |     (0, 0)    |     (1, 12)     |    1.53    |       0.003       |
+| 85a4ae97-a9fd-11ed-8755-02b84f9e23c5 |                66654-Advance Society for Development of Education               |    20286    |  (20286, 18)  |     (1, 12)     |   21.06    |       0.739       |
+| a794bee0-3d98-11ee-9cef-02b84f9e23c5 |              70560-Advance Society for Development of Education - 2             |    14107    |  (14106, 20)  |     (1, 12)     |   27.21    |       0.595       |
+| fcbf3b4e-63cb-11ef-8d08-0261eba56ddf |               75848-Advance Society for Development of Education 4              |     443     |   (443, 19)   |     (1, 12)     |    3.53    |       0.022       |
+| bb990796-4071-11ef-8d08-0261eba56ddf |              75459-Advance Society for Development of Education - 5             |      1      |    (1, 18)    |     (1, 12)     |    2.84    |       0.006       |
+| 61112072-e2bf-11ec-9010-0a22fe197ecb |                         61076-Agni College of Technology                        |     None    |      None     |        0        |   21.24    |       0.005       |
+| 2b222a77-c069-11ec-9010-0a22fe197ecb |               59993-Ahmedabad Institute of Hospitality Management               |     5336    |   (5336, 20)  |     (1, 12)     |   15.83    |        0.22       |
+| c2713065-8955-11ee-9cef-02b84f9e23c5 |                                    71595-AIHM                                   |    17241    |  (17241, 21)  |     (1, 12)     |   22.63    |       0.833       |
+| d674f659-0295-11ed-8755-02b84f9e23c5 |                              62186-AIMS INSTITUTES                              |     None    |      None     |        0        |   21.14    |       0.006       |
+| ed781892-4bfe-11e9-8ffe-02ceb8e07d66 |                        38840-AISECT Group of Universities                       |    31376    |  (31376, 22)  |     (1, 12)     |   203.23   |       1.525       |
+| cc1ae636-531c-11e9-8ffe-02ceb8e07d66 |                             39247-Amity Patna-Ranchi                            |    74444    |  (74444, 22)  |     (1, 12)     |   118.83   |       3.324       |
+| f02c3275-3358-11ee-9cef-02b84f9e23c5 |                             70365-Amity Study Abroad                            |     None    |      None     |        0        |   21.89    |       0.005       |
+| 8c45f610-bd78-11eb-9e36-0a2bd9889d72 |                          54198-Amity University Kolkata                         |    21184    |  (21184, 22)  |     (1, 12)     |    16.3    |       1.017       |
+| 754764a3-bcf7-11eb-9e36-0a2bd9889d72 |                          54171-Amity University Punjab                          |    63146    |  (54975, 22)  |     (1, 12)     |   117.21   |       2.785       |
+| 4b3c9795-0f0b-11ec-9e36-0a2bd9889d72 |                            55878-Ananta Edutech India                           |     None    |      None     |        0        |   21.27    |       0.006       |
+| b6952077-484c-11e8-b10d-02ceb8e07d66 |                        30674-Apeejay Institute Of Design                        |     1989    |   (1988, 20)  |     (1, 12)     |    4.42    |       0.092       |
+| ac1b60f3-9569-11e8-b10d-02ceb8e07d66 |             33013-Apeejay Institute of Management - Technical Campus            |     2790    |   (2790, 20)  |     (1, 12)     |   10.91    |       0.114       |
+| c53d7656-13b6-11e9-8ffe-02ceb8e07d66 |                  36367-Apeejay Institute of Mass Communication                  |     964     |   (964, 18)   |     (1, 12)     |    8.77    |       0.037       |
+| 9ae28c22-fa1a-11e7-8758-0a106ee76b21 |                        26548-Apeejay Sch. of Mgmt Dwarka                        |      0      |     (0, 0)    |     (1, 12)     |    1.62    |       0.003       |
+| abb00f0b-f561-11e7-8758-0a106ee76b21 |                          26334-Apeejay Stya University                          |     7773    |   (7769, 22)  |     (1, 12)     |   37.09    |       0.362       |
+| 676214ff-9b42-11ed-8755-02b84f9e23c5 |                                  66296-Apna MBA                                 |     None    |      None     |        0        |   21.28    |       0.005       |
+| 0b13929e-aa63-11ee-8d08-0261eba56ddf |                        72213-Arya College of Engineering                        |    70706    |  (70705, 20)  |     (1, 12)     |   151.24   |       3.015       |
+| 5e60fb59-c1ad-11e8-b10d-02ceb8e07d66 |                           34056-Asian Education Group                           |    17742    |  (17714, 22)  |     (1, 12)     |    87.7    |       0.852       |
+| cc556431-46fc-11ee-9cef-02b84f9e23c5 |                    70734-ASIA PACIFIC INSTITUTE OF MANAGEMENT                   |    15547    |  (15547, 19)  |     (1, 12)     |   25.37    |        0.67       |
+| 0bae9b73-463b-11ec-9e36-0a2bd9889d72 |                            56968-Avantika University                            |      0      |     (0, 0)    |     (1, 12)     |    1.82    |       0.003       |
+| 269ad0e4-e283-11ed-8755-02b84f9e23c5 |                   68486-Babu Banarasi Das Educational Society                   |      0      |     (0, 0)    |     (1, 12)     |    1.5     |       0.004       |
+| f8ae01d9-ea76-11ee-8d08-0261eba56ddf |                        73473-Beyond Immigration Pvt. Ltd.                       |     3412    |   (3411, 18)  |     (1, 12)     |    5.34    |       0.136       |
+| b35808e2-cf27-11ee-8d08-0261eba56ddf |                  72959-Beyond Odds Technologies Private Limited                 |     5272    |   (5272, 19)  |     (1, 12)     |    17.9    |       0.217       |
+| 82b88c53-9bdc-11ec-9010-0a22fe197ecb |                         58976-BFIT Group of Institutions                        |     None    |      None     |        0        |   21.21    |       0.005       |
+| 7ef342ed-c7af-11ed-8755-02b84f9e23c5 |                67547-Bharati Vidyapeeth (Deemed to be University)               |     None    |      None     |        0        |   23.69    |       0.006       |
+| 7deb27c6-ac5d-11ed-8755-02b84f9e23c5 |                                   66695-BIITM                                   |     1729    |   (1729, 20)  |     (1, 12)     |    5.39    |        0.07       |
+| 2c9b0224-9d82-11ec-9010-0a22fe197ecb |              59162-Calcutta Institute of Engineering and Management             |     None    |      None     |        0        |   21.18    |       0.005       |
+| d223aa0d-ac17-11eb-9e36-0a2bd9889d72 |                            53960-Career Point Limited                           |     None    |      None     |        0        |   21.41    |       0.006       |
+| ae134fef-3edc-11ed-8755-02b84f9e23c5 |                   63935-Carreograph Institute Private Limited                   |      97     |    (97, 19)   |     (1, 12)     |    3.37    |       0.009       |
+| 54c72b99-52e9-11ee-9cef-02b84f9e23c5 |                   70845-Chandigarh Educational Trust (Regd.)-2                  |      0      |     (0, 0)    |     (1, 12)     |    1.91    |       0.003       |
+| a15e8dab-149f-11e7-8758-0a106ee76b21 |                17884-Chennai Amirta Institute of Hotel Management               |     4847    |   (4842, 22)  |     (1, 12)     |    6.19    |       0.322       |
+| 75ceac30-ec00-11ec-9010-0a22fe197ecb |                        61393-Cheran Group of Institutions                       |     None    |      None     |        0        |   172.82   |       0.006       |
+| 8e329031-8abe-11ed-8755-02b84f9e23c5 |                                 65932-ciiskills                                 |    20970    |  (20970, 22)  |     (1, 12)     |   41.54    |       1.088       |
+| 5941aa77-324f-11ef-8d08-0261eba56ddf |                                75224-City College                               |      0      |     (0, 0)    |     (1, 12)     |    1.37    |       0.003       |
+| ede62dd5-c1b1-11ec-9010-0a22fe197ecb |                   60059-College of Hospitality Administration                   |     None    |      None     |        0        |    21.3    |       0.005       |
+| 3677e4bc-bd79-11eb-9e36-0a2bd9889d72 |              54207-Combined Institute of Medical Science & Research             |     None    |      None     |        0        |    21.1    |       0.006       |
+| 28cf1db5-3ee0-11ed-8755-02b84f9e23c5 |                             63972-CONSULTATION GURU                             |      0      |     (0, 0)    |     (1, 12)     |    1.57    |       0.003       |
+| c2c85fab-7bb1-11ed-8755-02b84f9e23c5 |               65432-CPJ College of Higher Studies & School of Law               |     7959    |   (7959, 19)  |     (1, 12)     |    7.06    |       0.322       |
+| eb9b0385-6f0b-11ed-8755-02b84f9e23c5 |                          65153-Delhi School of Business                         |     None    |      None     |        0        |   21.21    |       0.005       |
+| 41412afc-71c0-11e9-8ffe-02ceb8e07d66 |                     40347-Dev Bhoomi Uttarakhand University                     |    18864    |  (18864, 22)  |     (1, 12)     |   97.77    |       0.869       |
+| 2003fcf1-be65-11ed-8755-02b84f9e23c5 |                     67319-DHANALAKSHMI SRINIVASAN UNIVERSITY                    |      0      |     (0, 0)    |     (1, 12)     |    2.64    |       0.003       |
+| f0d7b039-4e0d-11ed-8755-02b84f9e23c5 |                           64463-DIMENSION NXG PVT LTD                           |     None    |      None     |        0        |   21.24    |       0.077       |
+| 8d2a1c23-e46c-11ed-8755-02b84f9e23c5 |                               68552-dnotes_ranchi                               |      0      |     (0, 0)    |     (1, 12)     |    1.66    |       0.003       |
+| 2ec88bde-d6d3-11ee-8d08-0261eba56ddf |                            73130-Dolphin PG Institute                           |     8170    |   (8170, 19)  |     (1, 12)     |   20.21    |       0.338       |
+| 47da503d-6429-11ed-8755-02b84f9e23c5 |                        65017-DR D Y PATIL UNITECH SOCIETY                       |     None    |      None     |        0        |   21.11    |       0.007       |
+| bedc564f-8fa7-11ee-9cef-02b84f9e23c5 |                      71631-Dr.M.C.Saxena Group of Colleges                      |     4952    |   (4952, 19)  |     (1, 12)     |    6.34    |       0.195       |
+| e64895c9-9e13-11ed-8755-02b84f9e23c5 |                                   66406-DSATM                                   |     None    |      None     |        0        |   22.03    |       0.006       |
+| 760a633c-463b-11ec-9e36-0a2bd9889d72 |                         56973-DSJ Keep Learning Limited                         |     None    |      None     |        0        |   21.06    |       0.006       |
+| 2150c743-cf1e-11ed-8755-02b84f9e23c5 |                                    67894-DSMS                                   |     None    |      None     |        0        |   21.12    |       0.005       |
+| 49cf66b3-bd7a-11eb-9e36-0a2bd9889d72 |                       54220-Ebenezer Group of Institutions                      |    13505    |  (13505, 22)  |     (1, 12)     |   10.81    |       0.705       |
+| 2750eda9-e5bb-11ed-8755-02b84f9e23c5 |                               68732-Education Demo                              |      1      |    (1, 20)    |     (1, 12)     |    3.13    |       0.006       |
+| 5e124221-cc42-11ea-9e36-0a2bd9889d72 |                         50055-Eminent Group of Colleges                         |     4591    |   (4591, 21)  |     (1, 12)     |    4.07    |       0.215       |
+| e35915db-8061-11ec-9e36-0a2bd9889d72 |                           58287-ESEDS School of Design                          |     685     |   (685, 22)   |     (1, 12)     |    3.65    |       0.033       |
+| 0cc9f2c2-5b6f-11ed-8755-02b84f9e23c5 |                  64784-Footwear Design & Development Institute                  |     None    |      None     |        0        |   21.17    |       0.005       |
+| 26da0857-a256-11e4-9c1b-22000a9389c5 |                 4258-Fortune Institute of International Business                |      4      |    (4, 18)    |     (1, 12)     |   11.84    |       0.006       |
+| fa6b8a23-d6d3-11ec-9010-0a22fe197ecb |                                60795-Fujisoftvara                               |      0      |     (0, 0)    |     (1, 12)     |    7.99    |       0.003       |
+| ffeb12c6-4637-11ec-9e36-0a2bd9889d72 |                56931-Future Institute of Engineering & Management               |     None    |      None     |        0        |   21.14    |       0.005       |
+| 9bedfef7-ea76-11ed-8755-02b84f9e23c5 |                           68774-Gandhinagar University                          |      0      |     (0, 0)    |     (1, 12)     |    5.89    |       0.003       |
+| 1d5c59e6-6a04-11ec-9e36-0a2bd9889d72 |                         57683-Gnanam School of Business                         |     2906    |   (2906, 19)  |     (1, 12)     |    4.59    |       0.121       |
+| 130b108c-4f19-11ef-8d08-0261eba56ddf |                        75623-Goa Institute of Management                        |     717     |   (717, 20)   |     (1, 12)     |    3.61    |       0.039       |
+| 1d3dac84-e202-11ea-9e36-0a2bd9889d72 |                        50389-Grow Talent Company Limited                        |      0      |     (0, 0)    |     (1, 12)     |   11.69    |       0.003       |
+| 8455d89f-7626-11ec-9e36-0a2bd9889d72 |                      57938-Guru Ram Dass Educational Trust                      |    14647    |  (14642, 22)  |     (1, 12)     |   14.92    |       0.659       |
+| 6f8ee9be-64f0-11ec-9e36-0a2bd9889d72 |           57617-HCG Charitable Trust (NSHM Knowledge Campus, Kolkata)           |    36100    |  (36085, 22)  |     (1, 12)     |   84.37    |       1.777       |
+| d1723121-ae5a-11ec-9010-0a22fe197ecb |                        59480-HERITAGE EDUCATIONAL SOCIETY                       |     None    |      None     |        0        |   21.14    |       0.006       |
+| f1441e82-f99e-11eb-9e36-0a2bd9889d72 |                               55601-Hike Education                              |     None    |      None     |        0        |   21.55    |       0.006       |
+| e001dd2d-e51f-11ed-8755-02b84f9e23c5 |                             68644-Hike Education DPU                            |      0      |     (0, 0)    |     (1, 12)     |    1.62    |       0.003       |
+| 9e17ad2c-cf1f-11ed-8755-02b84f9e23c5 |                       67907-HIKE EDUCATION PRIVATE LIMITED                      |     9605    |   (9605, 22)  |     (1, 12)     |   101.55   |       0.449       |
+| 10969500-a93b-11ec-9010-0a22fe197ecb |                           59409-Icon Education Society                          |    25025    |  (25025, 22)  |     (1, 12)     |   76.51    |       1.257       |
+| a2568f6e-f415-11ed-9cef-02b84f9e23c5 |                       68966-IDEALIZE ADVISORY SERVICES LLP                      |     None    |      None     |        0        |   21.19    |       0.005       |
+| 82b4faa0-047e-11e9-8ffe-02ceb8e07d66 |                                    35940-IIAS                                   |      0      |     (0, 0)    |     (1, 12)     |    5.02    |       0.003       |
+| cffa07f6-a02d-11e5-a199-22000aa4133b |                             7764-Imarticus Learning                             |    16654    |   (4000, 22)  |     (1, 12)     |   409.44   |       0.198       |
+| a2fc742a-7342-11ee-9cef-02b84f9e23c5 |             71359-Imperial School of Banking and Management Studies             |      0      |     (0, 0)    |     (1, 12)     |    1.51    |       0.003       |
+| fb8c68f9-c574-11e7-8758-0a106ee76b21 |                                24822-IMS BBA BCA                                |    22739    |  (22739, 19)  |     (1, 12)     |   63.01    |       0.974       |
+| 22e98f47-7626-11ec-9e36-0a2bd9889d72 |                 57934-Institute of Insurance and Risk Management                |     None    |      None     |        0        |   21.25    |       0.005       |
+| 1a20a29c-85cc-11ee-9cef-02b84f9e23c5 |                   71576-Institute of Marketing and Management                   |     5098    |   (5098, 19)  |     (1, 12)     |    4.65    |       0.211       |
+| 74b96842-2e96-11e7-8758-0a106ee76b21 |                      18951-Institute of Product Leadership                      |      0      |     (0, 0)    |     (1, 12)     |    1.49    |       0.003       |
+| 2528c5a6-6cc0-11ec-9e36-0a2bd9889d72 |              57765-International School of Business & Media Kolkata             |     1967    |   (1967, 22)  |     (1, 12)     |    7.78    |       0.089       |
+| 6d4f7344-f31e-11ec-8755-02b84f9e23c5 |                 61644-International School of Management, Patna                 |    18045    |  (18045, 19)  |     (1, 12)     |   17.76    |       0.821       |
+| 8dabf6de-570c-11e5-981b-22000a9700b4 |                6891-iNurture Education Solutions Private Limited                |     None    |      None     |        0        |   21.12    |       0.005       |
+| 97ae1837-ac5d-11ed-8755-02b84f9e23c5 |                                    66696-ISHM                                   |    13213    |  (13213, 21)  |     (1, 12)     |    9.75    |       0.615       |
+| 53fd04e1-a6e6-11ed-8755-02b84f9e23c5 |                                   66606-itmbu                                   |    44899    |  (44899, 19)  |     (1, 12)     |   97.09    |       1.959       |
+| e67e6e3d-fabb-11e6-8758-0a106ee76b21 |                                17103-ITM College                                |    19299    |  (19299, 22)  |     (1, 12)     |   14.99    |       0.895       |
+| 7e41c990-4385-11ec-9e36-0a2bd9889d72 |                              56870-Jain University                              |    39517    |  (39517, 22)  |     (1, 12)     |   97.26    |       1.996       |
+| 543163b3-ac8e-11ed-8755-02b84f9e23c5 |             66807-Jain University & ISDC SERVICES INDIA PRIVATE LIMI            |     752     |   (752, 19)   |     (1, 12)     |    3.13    |       0.034       |
+| cddbd851-7626-11ec-9e36-0a2bd9889d72 |           57941-Jain University & ISDC SERVICES INDIA PRIVATE LIMITED           |     None    |      None     |        0        |   21.87    |       0.005       |
+| ad39b6ba-2cdb-11e6-8091-02b01d637af7 |                      11071-Jaipuria Institute of Management                     |      2      |    (2, 21)    |     (1, 12)     |   10.77    |       0.006       |
+| 70347936-cbd2-11ec-9010-0a22fe197ecb |                                 60402-jru clone                                 |     2535    |   (2535, 22)  |     (1, 12)     |   42.32    |       0.121       |
+| fc07bbf7-d080-11ec-9010-0a22fe197ecb |                       60565-Jyothi Institute of Technology                      |      0      |     (0, 0)    |     (1, 12)     |    5.35    |       0.003       |
+| 4e957bc1-805d-11ec-9e36-0a2bd9889d72 |                    58246-Karnavati University – Btech Campus                    |    12192    |  (12192, 18)  |     (1, 12)     |    8.51    |       0.477       |
+| 5c0e8019-9b45-11ed-8755-02b84f9e23c5 |                       66326-Kingston Educational Institute                      |    35349    |  (35349, 22)  |     (1, 12)     |   217.6    |       1.739       |
+| df2516c5-d370-11ed-8755-02b84f9e23c5 |                  68038-K.J.InstituteofEngine e ring&Technology                  |    11600    |  (11600, 20)  |     (1, 12)     |   25.04    |       0.497       |
+| 76a945a8-b20c-11ed-8755-02b84f9e23c5 |            66966-Kohinoor education trust, Kohinoor management school           |      0      |     (0, 0)    |     (1, 12)     |    2.97    |       0.003       |
+| 2962c8a6-aa49-11ee-8d08-0261eba56ddf |                       72147-Koshy's Group of Institutions                       |     None    |      None     |        0        |   21.14    |       0.006       |
+| 6225775d-3b82-11eb-9e36-0a2bd9889d72 |                        51954-Krupanidhi Educational Trust                       |     None    |      None     |        0        |   21.08    |       0.006       |
+| eae77928-6cbe-11ec-9e36-0a2bd9889d72 |                                    57755-KUAT                                   |    35312    |  (35312, 22)  |     (1, 12)     |   42.02    |       1.781       |
+| caa4056c-0971-11ef-8d08-0261eba56ddf |                                  74124-KU UIFM                                  |      0      |     (0, 0)    |     (1, 12)     |    1.41    |       0.003       |
+| 7d3320d7-d6cc-11ec-9010-0a22fe197ecb |          60728-LAL BAHADUR SHASTRI INSTITUTE OF TECHNOLOGY & MANAGEMENT         |     None    |      None     |        0        |   21.07    |       0.006       |
+| c2040b5d-77bd-11ec-9e36-0a2bd9889d72 |                      58083-Lal Bahadur Shiksha Samiti, Kota                     |     9871    |   (9871, 22)  |     (1, 12)     |    8.52    |        0.48       |
+| ee12f40b-bba6-11ee-8d08-0261eba56ddf |                       72723-LeadSquared for Education 2.0                       |      0      |     (0, 0)    |     (1, 12)     |    1.41    |       0.003       |
+| fa675f26-6711-11eb-9e36-0a2bd9889d72 |                           52736-LeadSquared University                          |      0      |     (0, 0)    |     (1, 12)     |    1.45    |       0.003       |
+| c61be970-6fb2-11ed-8755-02b84f9e23c5 |                      65161-Learntech Edu Solutions Pvt. Ltd                     |     7540    |   (7540, 20)  |     (1, 12)     |   10.43    |       0.343       |
+| 77c88854-bd78-11eb-9e36-0a2bd9889d72 |                            54197-Lingaya’s Vidyapeeth                           |    17350    |  (17350, 18)  |     (1, 12)     |   30.92    |       0.758       |
+| 42a850f5-cbd8-11ec-9010-0a22fe197ecb |                             60505-Lodha World School                            |     None    |      None     |        0        |   21.36    |       0.006       |
+| bc467374-1e54-11ed-8755-02b84f9e23c5 |                62985-Loyola Institute of Business Administration                |      0      |     (0, 0)    |     (1, 12)     |   11.31    |       0.003       |
+| 841aa20d-d6dc-11ee-8d08-0261eba56ddf |                       73131-Magadh Professional Institute                       |    16779    |  (16779, 20)  |     (1, 12)     |   24.48    |        0.68       |
+| 66c05f63-745d-11ed-8755-02b84f9e23c5 |               65223-Maharaja Agrasen Technical Education  Society               |     None    |      None     |        0        |   21.13    |       0.005       |
+| 7bc9bf15-a93d-11ec-9010-0a22fe197ecb |                59434-Mahatma Jyoti Rao Phoole University, Jaipur                |     None    |      None     |        0        |   21.15    |       0.006       |
+| eb021116-9d16-11eb-9e36-0a2bd9889d72 |                           53722-Maya Group of Colleges                          |     None    |      None     |        0        |   21.17    |       0.006       |
+| 951524a5-61ac-11ee-9cef-02b84f9e23c5 |                         71021-Medhavi Skills University                         |    10360    |  (10360, 19)  |     (1, 12)     |   20.32    |       0.512       |
+| 6e3b3c96-9f2c-11ee-a5f0-0681924c356f |                         71886-MERI group of institutions                        |      2      |    (2, 18)    |     (1, 12)     |    3.25    |       0.006       |
+| 1839a355-816c-11ed-8755-02b84f9e23c5 |                    65698-Metro Institute Education Consultant                   |     None    |      None     |        0        |   21.16    |       0.006       |
+| e2f4a480-ddb5-11eb-9e36-0a2bd9889d72 |                       54792-Mitcon Institute of Management                      |     None    |      None     |        0        |   21.08    |       0.005       |
+| ff63ac0d-5a04-11ee-9cef-02b84f9e23c5 |              70959-MKES Institute of Management Studies & Research              |     1708    |   (1708, 20)  |     (1, 12)     |    6.23    |       0.075       |
+| cc20dfd8-aec8-11ee-8d08-0261eba56ddf |                     72297-MODI INNOVATIVE EDUCATION SOCIETY                     |    32611    |  (32611, 19)  |     (1, 12)     |   60.27    |        1.41       |
+| 8006f8da-b221-11eb-9e36-0a2bd9889d72 |                                 54036-MUJ Unext                                 |     None    |      None     |        0        |   21.81    |       0.006       |
+| 6c484bca-b662-11ed-8755-02b84f9e23c5 |                         67174-MVJ College of Engineering                        |     None    |      None     |        0        |   21.12    |       0.005       |
+| da20a894-4192-11ee-9cef-02b84f9e23c5 |                          70590-Narayana Business School                         |     None    |      None     |        0        |   21.16    |       0.006       |
+| a5a71b2b-d012-11ee-8d08-0261eba56ddf |                          72966-Netaji Subhas University                         |    39915    |  (39915, 21)  |     (1, 12)     |   31.02    |       1.859       |
+| 62d6918d-adcb-11ed-8755-02b84f9e23c5 |                           66847-New Horizon,Bangalore                           |    39960    |  (39958, 20)  |     (1, 12)     |   59.63    |        1.79       |
+| 9fba3445-79e3-11ed-8755-02b84f9e23c5 |                              65396-Nirma University                             |     4747    |   (4747, 20)  |     (1, 12)     |    7.87    |       0.205       |
+| 4eb37158-b207-11ed-8755-02b84f9e23c5 |                                    66916-NIST                                   |     None    |      None     |        0        |   21.04    |       0.006       |
+| cab182d8-6ba6-11ef-8d08-0261eba56ddf |                               75906-Noor Mohammad                               |      0      |     (0, 0)    |     (1, 12)     |    1.51    |       0.003       |
+| 8c789596-f784-11ec-8755-02b84f9e23c5 |                       61757-OMAROHAHANAM GLOBAL FOUNDATION                      |      0      |     (0, 0)    |     (1, 12)     |    1.4     |       0.003       |
+| e8342a03-c264-11ec-9010-0a22fe197ecb |                        60202-Pailan Group of Institutions                       |     None    |      None     |        0        |    21.2    |       0.006       |
+| f91220f8-bd78-11eb-9e36-0a2bd9889d72 |                        54204-Paramahamsa Foundation Trust                       |     None    |      None     |        0        |   21.12    |       0.005       |
+| dd9521da-d6d3-11ec-9010-0a22fe197ecb |                  60794-Parmarth Educational Trust - ATMS Groups                 |     1087    |   (1086, 22)  |     (1, 12)     |    5.61    |       0.055       |
+| 248e1323-9d7a-11ec-9010-0a22fe197ecb |                  59078-PI DIGITAL MEDIA NETWORK PRIVATE LIMITED                 |    62670    |  (62670, 19)  |     (1, 12)     |   116.98   |       2.578       |
+| f956ad03-d6d2-11ec-9010-0a22fe197ecb |                        60786-Poddar Group of Institutions                       |     None    |      None     |        0        |   21.17    |       0.005       |
+| cbef3118-9e41-11ed-8755-02b84f9e23c5 |                66411-P. PERICHI GOUNDER MEMORIAL CHARITABLE TRUST               |     5525    |   (5525, 22)  |     (1, 12)     |   25.56    |       0.269       |
+| 4d362de1-8059-11ec-9e36-0a2bd9889d72 |                   58210-Pranveer Singh Institute Of Technology                  |     2134    |   (2134, 22)  |     (1, 12)     |   17.56    |       0.102       |
+| 23b66d2d-8dc4-11ee-9cef-02b84f9e23c5 |                             71612-Presidency College                            |    331024   |  (330019, 19) |     (1, 12)     |  3602.93   |       13.493      |
+| 45ca234e-9d7e-11ec-9010-0a22fe197ecb |                    59121-Rajalakshmi Institute of Technology                    |      0      |     (0, 0)    |     (1, 12)     |    2.97    |       0.004       |
+| 5be41061-3662-11ec-9e36-0a2bd9889d72 |                    56710-Regional College of Management Trust                   |    34186    |  (34184, 22)  |     (1, 12)     |   53.52    |       1.699       |
+| c6337556-b117-11ed-8755-02b84f9e23c5 |                          66897-RIG EDUCATION FOUNDATION                         |     356     |   (356, 18)   |     (1, 12)     |    6.37    |       0.019       |
+| 2ef1da1b-9e48-11ed-8755-02b84f9e23c5 |  66413-RITNAND BALVED EDUCATION  FOUNDATION C/O Amity University Uttar  Pradesh |      1      |    (1, 20)    |     (1, 12)     |    8.83    |       0.006       |
+| 10e9fd23-e46f-11ed-8755-02b84f9e23c5 |                              68578-RKDF University                              |     None    |      None     |        0        |   21.08    |       0.006       |
+| a3f60abe-d6d2-11ec-9010-0a22fe197ecb |                        60783-RNS INSTITUTE OF TECHNOLOGY                        |      3      |    (3, 22)    |     (1, 12)     |    3.77    |       0.007       |
+| f584d616-3e0c-11ea-8dd7-029e1407a868 |                      47091-Roorkee Institute of Technology                      |     1649    |   (1649, 22)  |     (1, 12)     |   16.69    |       0.079       |
+| 3f667a07-b209-11ed-8755-02b84f9e23c5 |                        66935-RTC Institute of Technology                        |     7697    |   (7697, 19)  |     (1, 12)     |    9.85    |       0.331       |
+| 2a25767b-c263-11ec-9010-0a22fe197ecb |                                 60183-rtgoswami                                 |     None    |      None     |        0        |   21.05    |       0.006       |
+| e55dfceb-89ca-11ec-9e36-0a2bd9889d72 |                 58445-RVS College of Engineering and Technology                 |     8833    |   (8833, 22)  |     (1, 12)     |    6.24    |       0.445       |
+| 566bc8c2-69ac-11ea-8dd7-029e1407a868 |                      48317-Sarala Birla University, Ranchi                      |     4006    |   (4006, 18)  |     (1, 12)     |   10.37    |       0.158       |
+| 10eb0129-43cf-11ed-8755-02b84f9e23c5 |                64264-SCES Indira School Of Business Studies PGDM                |     None    |      None     |        0        |   21.19    |       0.005       |
+| d186479d-e2be-11ec-9010-0a22fe197ecb |         61070-Scholar’s Institute of Technology and Management, Guwahati        |     4577    |   (4577, 21)  |     (1, 12)     |    6.01    |        0.22       |
+| 45611e70-6acc-11eb-9e36-0a2bd9889d72 |                             52836-Servo Institutions                            |    10441    |  (10441, 22)  |     (1, 12)     |   13.26    |        0.5        |
+| 22f18706-9826-11eb-9e36-0a2bd9889d72 |                               53534-SGT University                              |      0      |     (0, 0)    |     (1, 12)     |    2.56    |       0.003       |
+| 28600efb-d285-11ec-9010-0a22fe197ecb |                          60682-Sha Shib Flying Academy                          |     None    |      None     |        0        |   21.38    |       0.006       |
+| 7cd8e0c1-d114-11ec-9010-0a22fe197ecb |                    60672-SHEAT GROUP OF INSTITUTIONS VARANASI                   |     None    |      None     |        0        |   21.46    |       0.006       |
+| a7360c22-cac2-11ea-9e36-0a2bd9889d72 |              49976-Shikshapeeth College of Management & Technology              |    20559    |  (20559, 19)  |     (1, 12)     |    23.5    |        0.94       |
+| c40e30cf-97f4-11ed-8755-02b84f9e23c5 |                 66249-Shivalik College of Engineering, Dehradun                 |    15739    |  (15739, 19)  |     (1, 12)     |   72.71    |        0.63       |
+| 46ac6906-5a88-11ed-8755-02b84f9e23c5 |                            64755-Shoolini University                            |     None    |      None     |        0        |   21.53    |       0.006       |
+| 88ab63b3-77b8-11ec-9e36-0a2bd9889d72 |                  58032-Shri Rajendra Kumar Gupta Memorial Trust                 |     None    |      None     |        0        |   21.14    |       0.005       |
+| 505b8ba9-8bb2-11eb-9e36-0a2bd9889d72 |                 53373-Shri Ramswaroop Memorial Charitable Trust                 |    26645    |  (26634, 22)  |     (1, 12)     |   155.89   |       1.372       |
+| 47b7a7e2-89ca-11ec-9e36-0a2bd9889d72 | 58440-Shri Rawatpura Sarkar University (Shri Rawatpura Sarkar Lok Kalyan Trust) |     None    |      None     |        0        |   21.31    |       0.006       |
+| fe608aef-3456-11ed-8755-02b84f9e23c5 |                   63649-Sikkim Manipal Institute of Technology                  |     7579    |   (7579, 20)  |     (1, 12)     |   25.41    |       0.332       |
+| 4d7e6c36-9bdf-11ec-9010-0a22fe197ecb |                         59007-Sister Nivedita University                        |     None    |      None     |        0        |   21.17    |       0.005       |
+| b7ce7eb3-0459-11ee-9cef-02b84f9e23c5 |                                  69366-SkilSet                                  |      0      |     (0, 0)    |     (1, 12)     |    1.73    |       0.003       |
+| 8830ff87-8b5c-11ee-9cef-02b84f9e23c5 |                   71608-SKIPPING STONES ENTERTAINMENT PVT. LTD                  |     1996    |   (1996, 19)  |     (1, 12)     |    4.03    |       0.079       |
+| 6030769a-1de9-11ed-8755-02b84f9e23c5 |                            62923-Sky Blue Art Pvt Ltd                           |     None    |      None     |        0        |   21.08    |       0.006       |
+| 2e97e8b2-77b6-11ec-9e36-0a2bd9889d72 |                     58009-Society For Media Arts-Account IV                     |     8193    |   (8193, 20)  |     (1, 12)     |   21.14    |       0.368       |
+| 1aec3f46-82f3-11eb-9e36-0a2bd9889d72 |                             53256-Somaiya Vidyavihar                            |     None    |      None     |        0        |   21.12    |       0.006       |
+| 6a02113c-77b7-11ec-9e36-0a2bd9889d72 |                       58021-SOUTH INDIAN EDUCATION SOCIETY                      |     3701    |   (3701, 22)  |     (1, 12)     |    7.51    |       0.192       |
+| bedc092d-a84c-11ed-8755-02b84f9e23c5 |                                  66623-Spandey                                  |    23279    |  (23279, 20)  |     (1, 12)     |   111.01   |        1.14       |
+| 1eb29601-51ed-11ed-8755-02b84f9e23c5 |             64554-S. P. Mandali's Welingkar Institute of Management             |     None    |      None     |        0        |    21.2    |       0.006       |
+| 30b50b21-dbeb-11ee-8d08-0261eba56ddf |                          73252-Sree Sastha Institution                          |     9647    |   (9647, 18)  |     (1, 12)     |    5.7     |       0.386       |
+| 92982047-9bdf-11ec-9010-0a22fe197ecb |                        59010-Sri Guru Ram Rai University                        |    17592    |  (17592, 22)  |     (1, 12)     |   16.67    |       0.869       |
+| 46693c26-ddbc-11eb-9e36-0a2bd9889d72 |                            54856-Srinivas University                            |     7031    |   (7031, 22)  |     (1, 12)     |    5.2     |        0.34       |
+| febf80ce-dd49-11ee-8d08-0261eba56ddf |               73279-SRI SRINIVASA EDUCATIONAL AND CHARITABLE TRUST              |    99429    |  (99429, 20)  |     (1, 12)     |   168.03   |       4.454       |
+| 88e76cfd-3452-11ed-8755-02b84f9e23c5 |                     63608-SRM EDUCATION & RESEARCH INSTITUTE                    |     None    |      None     |        0        |    21.2    |       0.006       |
+| 7ed0c9fb-ccc7-11ed-8755-02b84f9e23c5 |                                67784-SRM Madurai                                |     None    |      None     |        0        |   21.53    |       0.005       |
+| 8c5cbf5f-cccc-11ed-8755-02b84f9e23c5 |                               67827-SRM Valliammai                              |     None    |      None     |        0        |    21.2    |       0.006       |
+| 7a438d18-463f-11ec-9e36-0a2bd9889d72 |              57021-St. Andrews Institute of Technology & Management             |     None    |      None     |        0        |   172.78   |       0.006       |
+| cd749766-e0f2-11ed-8755-02b84f9e23c5 |                      68481-St. Wilfred's Education Society                      |     None    |      None     |        0        |   21.13    |       0.007       |
+| bf0453b8-ea83-11ed-8755-02b84f9e23c5 |                          68777-Swaminarayan University                          |     None    |      None     |        0        |   21.24    |       0.006       |
+| 04ca8319-894c-11eb-9e36-0a2bd9889d72 |                   53340-Symbiosis Centre for Distance Learning                  |     None    |      None     |        0        |   21.87    |       0.005       |
+| a7536373-6cbf-11ec-9e36-0a2bd9889d72 |                                   57761-System                                  |      0      |     (0, 0)    |     (1, 12)     |    7.89    |       0.003       |
+| 913a501e-3377-11ea-8dd7-029e1407a868 |                                46843-Test Account                               |      0      |     (0, 0)    |     (1, 12)     |    1.45    |       0.003       |
+| cfc4c4fb-6782-11eb-9e36-0a2bd9889d72 |                               52790-The WorldGrad                               |      0      |     (0, 0)    |     (1, 12)     |    3.19    |       0.004       |
+| 210e59b8-7456-11e3-86b5-22000a901032 |                     811-TKWs Institute of Banking & Finance                     |      0      |     (0, 0)    |     (1, 12)     |    2.16    |       0.004       |
+| f82eb53c-7db5-11eb-9e36-0a2bd9889d72 |                        53052-Toprankers Edtech Solutions                        |     9342    |   (9342, 19)  |     (1, 12)     |   11.36    |       0.387       |
+| 926419de-7627-11ec-9e36-0a2bd9889d72 |          57949-Tribhuvan College (Nalanda University Centre, Neemrana)          |     None    |      None     |        0        |   21.34    |       0.006       |
+| eb41838f-cc9f-11ee-8d08-0261eba56ddf |                 72942-Trinity Institute of Professional Studies                 |     2348    |   (2341, 20)  |     (1, 12)     |    6.64    |        0.1        |
+| f0a6fe6f-324f-11ef-8d08-0261eba56ddf |                             75229-UCAM Mumbai Campus                            |      1      |    (1, 18)    |     (1, 12)     |    2.84    |       0.006       |
+| 7a9cc667-ddb5-11eb-9e36-0a2bd9889d72 |                       54788-United Eduplus Private Limited                      |    24077    |  (24077, 18)  |     (1, 12)     |   50.65    |       0.978       |
+| d23e8a17-d214-11ee-8d08-0261eba56ddf |                     72987-United Eduplus Private Limited MBA                    |     6416    |   (6416, 18)  |     (1, 12)     |   12.06    |       0.375       |
+| 076d215b-a3d7-11ee-8d08-0261eba56ddf |                 71905-Uttaranchal Progressive Education Society                 |     9806    |   (9806, 22)  |     (1, 12)     |    9.37    |       0.498       |
+| cbda518e-6cbe-11ec-9e36-0a2bd9889d72 |                         57754-UWSB Karnavati University                         |     9912    |   (9912, 22)  |     (1, 12)     |   12.88    |       0.507       |
+| 6fb6119a-fe26-11ed-9cef-02b84f9e23c5 |                        69192-Vidhyadeep Charitable trust                        |     None    |      None     |        0        |   21.13    |       0.006       |
+| 81f33d66-7fe8-11eb-9e36-0a2bd9889d72 |                           53076-Vidyashilp University                           |      1      |    (1, 18)    |     (1, 12)     |    5.04    |       0.006       |
+| d832653d-def3-11e9-a0ed-029e1407a868 |                               44223-Vignan Online                               |     5356    |   (5356, 18)  |     (1, 12)     |    4.76    |       0.219       |
+| da4ecd5e-e688-11ec-9010-0a22fe197ecb |                      61328-Vijay Patil School of Management                     |     None    |      None     |        0        |   21.07    |       0.005       |
+| aa078aad-9be1-11ec-9010-0a22fe197ecb |                          59033-Vmax Sports And Fitness                          |     None    |      None     |        0        |   21.18    |       0.005       |
+| bf332c28-77ec-11ee-9cef-02b84f9e23c5 |             71394-Xavier Institute of Management & Entrepreneurship             |    20785    |  (20779, 20)  |     (1, 12)     |   53.06    |       1.032       |
+| 91c76fd0-3455-11ed-8755-02b84f9e23c5 |                 63636-Xavier Institute of Social Service, Ranchi                |     None    |      None     |        0        |   21.16    |       0.005       |
+| 7c9a1802-a6cb-11ed-8755-02b84f9e23c5 |                           66603-YS Group of Institutes                          |     None    |      None     |        0        |   21.25    |       0.006       |
++--------------------------------------+---------------------------------------------------------------------------------+-------------+---------------+-----------------+------------+-------------------+

@@ -1,0 +1,13 @@
+2024-10-09 14:32:47,393:INFO:LSQdatabase:connect_sql:45:TODAYSSSS DATEEE = >2024-10-09
+2024-10-09 14:32:50,149:INFO:loginlsq:login:23:Login function started
+2024-10-09 14:33:28,660:INFO:loginlsq:login:88:Login successful
+2024-10-09 16:31:55,678:INFO:LSQdatabase:connect_sql:45:TODAYSSSS DATEEE = >2024-10-09
+2024-10-09 16:32:01,317:INFO:loginlsq:login:23:Login function started
+2024-10-09 16:32:35,966:INFO:utils:text_box_otp:70:Successfully entered text in element with XPath: //*[@id="login-form-container"]/div[2]/div/div/div/div[2]/div[1]/div
+2024-10-09 16:32:36,010:INFO:loginlsq:login:88:Login successful
+2024-10-09 16:36:04,125:INFO:LSQdatabase:connect_sql:45:TODAYSSSS DATEEE = >2024-10-09
+2024-10-09 16:36:06,852:INFO:loginlsq:login:23:Login function started
+2024-10-09 16:36:06,912:INFO:utils:text_box:70:Successfully entered text in element with XPath: //*[@id="EmailID"]
+2024-10-09 16:36:09,327:INFO:utils:text_box:70:Successfully entered text in element with XPath: //*[@id="Password"]
+2024-10-09 16:36:42,176:INFO:utils:text_box:70:Successfully entered text in element with XPath: //*[@id="login-form-container"]/div[2]/div/div/div/div[2]/div[1]/div
+2024-10-09 16:36:42,216:INFO:loginlsq:login:88:Login successful
